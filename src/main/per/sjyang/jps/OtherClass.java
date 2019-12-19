@@ -6,4 +6,9 @@ package main.per.sjyang.jps;
  * @description
  */
 public class OtherClass {
+    public void function(){
+        int a = 1;
+        int b = a;
+        System.out.println(a+b);
+    }
 }
